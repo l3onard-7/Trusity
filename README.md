@@ -1,2 +1,2 @@
 # Trusity
-For aarush
+Hacktoberfest trial for students to learn OSC
